@@ -1,2 +1,3 @@
 # titanic
-Kaggle Titanic challenge code
+Kaggle Titanic Challenge Code
+This repository is sample code for exploring the Kaggle Titanic challenge. Many have paved the knowledge path before me and I hope to learn from their experience. I started this challenge and searching people that have traveled this path before, but I got distracted with NiFi and a cyber classification project. This repository will capture my learning experience. I give many thanks to those that have shared their approaches.
